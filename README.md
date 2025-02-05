@@ -1,9 +1,9 @@
 # 🧠 React Quiz App
 
 A simple interactive quiz application built with **React.js**. It fetches multiple-choice questions from a local API and tests your React knowledge. 🚀
-![React Quiz App Active Screen ](image/active_screen.png)
-![React Quiz App Active Screen ](image/active_screen.png)
-![React Quiz App Active Screen ](image/active_screen.png)
+![React Quiz App Active Screen ](images/active_screen.png)
+![React Quiz App Finish Screen ](images/finish_screen.png)
+![React Quiz App Start Screen ](images/start_screen.png)
 
 
 ## 🚀 Features
